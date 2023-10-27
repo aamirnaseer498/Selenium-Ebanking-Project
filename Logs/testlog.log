@@ -14,3 +14,35 @@
 2023-10-27 12:54:44,136 - Ebanking -INFO - Login button is clicked
 2023-10-27 12:54:44,152 - Ebanking -INFO - Login Successful
 2023-10-27 12:54:44,886 - Ebanking -INFO - Browser closed
+2023-10-27 17:00:50,638 - Ebanking -INFO - Browser launched
+2023-10-27 17:00:57,749 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-27 17:00:57,787 - Ebanking -INFO - LoginPage object initialized
+2023-10-27 17:00:58,166 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-27 17:00:58,445 - Ebanking -INFO - Password: habamuj is entered
+2023-10-27 17:00:59,655 - Ebanking -INFO - Login button is clicked
+2023-10-27 17:00:59,672 - Ebanking -INFO - Login Successful
+2023-10-27 17:01:00,419 - Ebanking -INFO - Browser closed
+2023-10-27 17:30:03,463 - Ebanking -INFO - Browser launched
+2023-10-27 17:30:08,577 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-27 17:30:08,623 - Ebanking -INFO - LoginPage object initialized
+2023-10-27 17:30:08,961 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-27 17:30:09,226 - Ebanking -INFO - Password: habamuj is entered
+2023-10-27 17:30:10,347 - Ebanking -INFO - Login button is clicked
+2023-10-27 17:30:10,367 - Ebanking -INFO - Login Successful
+2023-10-27 17:30:10,739 - Ebanking -INFO - Browser closed
+2023-10-27 17:42:15,279 - Ebanking -INFO - Browser launched
+2023-10-27 17:42:20,676 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-27 17:42:20,711 - Ebanking -INFO - LoginPage object initialized
+2023-10-27 17:42:21,032 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-27 17:42:21,387 - Ebanking -INFO - Password: habamuj is entered
+2023-10-27 17:42:24,817 - Ebanking -INFO - Login button is clicked
+2023-10-27 17:42:24,833 - Ebanking -INFO - Login Successful
+2023-10-27 17:42:25,497 - Ebanking -INFO - Browser closed
+2023-10-27 17:43:06,418 - Ebanking -INFO - Browser launched
+2023-10-27 17:43:12,739 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-27 17:43:12,783 - Ebanking -INFO - LoginPage object initialized
+2023-10-27 17:43:13,246 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-27 17:43:13,550 - Ebanking -INFO - Password: habamuj is entered
+2023-10-27 17:43:19,584 - Ebanking -INFO - Login button is clicked
+2023-10-27 17:43:19,607 - Ebanking -INFO - Login Successful
+2023-10-27 17:43:20,370 - Ebanking -INFO - Browser closed
