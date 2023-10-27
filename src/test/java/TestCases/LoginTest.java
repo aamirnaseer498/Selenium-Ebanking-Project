@@ -11,7 +11,7 @@ public class LoginTest extends CommonActions {
     @Test
     public void loginTest(){
         globalWebDriver.get(homeURL);
-        logger.info(homeURL + "opened");
+        logger.info("Home URL " + homeURL + " opened");
 
         loginPage= new LoginPage(globalWebDriver);
         logger.info("LoginPage object initialized");
