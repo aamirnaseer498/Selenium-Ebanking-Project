@@ -1,27 +1,40 @@
 package TestCases;
 
+import Utils.ReadConfigs;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 public class CommonActions {
 
-    public String homeURL= "https://demo.guru99.com/V4/";
-    public String userID= "mngr534667";
-    public String password= "habamuj";
-    public String homeTitle= "Guru99 Bank Manager HomePage";
+    public String browser= new ReadConfigs().getBrowser();
+    public String homeURL= new ReadConfigs().getHomeURL();
+    public String userID= new ReadConfigs().getUserID();
+    public String password= new ReadConfigs().getPassword();
+    public String homeTitle= new ReadConfigs().getHomeTitle();
     public Logger logger;
     public static WebDriver globalWebDriver;
     @BeforeClass
     public void setup(){
-        globalWebDriver= new ChromeDriver();
+
+        if (browser.equals("chrome")){
+            globalWebDriver= new ChromeDriver();
+        } else if (browser.equals("firefox")) {
+            globalWebDriver= new FirefoxDriver();
+        } else if (browser.equals("edge")) {
+            globalWebDriver= new EdgeDriver();
+        }
+
         globalWebDriver.manage().window().maximize();
         logger= Logger.getLogger("Ebanking");
         PropertyConfigurator.configure("Configs/log4j.properties");
         logger.info("Browser launched");
+
     }
 
     @AfterClass
