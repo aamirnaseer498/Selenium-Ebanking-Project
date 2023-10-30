@@ -21,6 +21,10 @@ public class LoginPage {
     @CacheLookup
     WebElement loginButton;
 
+    @FindBy(xpath = "//a[normalize-space()='Log out']")
+    @CacheLookup
+    WebElement logoutLink;
+
     public LoginPage(WebDriver webDriver) {
         loginWebDriver = webDriver;
         PageFactory.initElements(webDriver, this);
@@ -42,6 +46,11 @@ public class LoginPage {
     public void clickLogin() {
         loginWaitHelper.waitForElement(loginButton, 60);
         loginButton.click();
+    }
+
+    public void clickLogout() {
+        loginWaitHelper.waitForElement(logoutLink, 60);
+        logoutLink.click();
     }
 
 }

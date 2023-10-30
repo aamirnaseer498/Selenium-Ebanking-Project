@@ -69,7 +69,7 @@ public class GenerateReport extends TestListenerAdapter {
     @Override
     public void onTestSkipped(ITestResult tr) {
         test= reports.createTest(tr.getName());
-        test.log(Status.SKIP,MarkupHelper.createLabel(tr.getName(),ExtentColor.ORANGE));
+        test.log(Status.SKIP,MarkupHelper.createLabel(tr.getName(),ExtentColor.YELLOW));
         logger.info(tr.getName() + " Skipped");
     }
 
@@ -83,18 +83,19 @@ public class GenerateReport extends TestListenerAdapter {
 
         TakesScreenshot screenshot= (TakesScreenshot) CommonActions.globalWebDriver;
         File source= screenshot.getScreenshotAs(OutputType.FILE);
-        File target= new File(System.getProperty("user.dir") + "./Screenshots/" + tr.getName() + ".png");
+        File target= new File(System.getProperty("user.dir") + "/Screenshots/" + tr.getName() + ".png");
         try {
             FileUtils.copyFile(source,target);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        String screenShotPath= System.getProperty("user.dir") + "./Screenshots/" + tr.getName() + ".png";
+        String screenShotPath= System.getProperty("user.dir") + "/Screenshots/" + tr.getName() + ".png";
         File file= new File(screenShotPath);
 
         if (file.exists()){
             try {
-                test.fail("Screenshot is below: " + test.addScreenCaptureFromPath(screenShotPath));
+                test.fail("Screenshot is below: ");
+                test.addScreenCaptureFromPath(screenShotPath);
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
