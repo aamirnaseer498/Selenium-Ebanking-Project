@@ -8,7 +8,7 @@ public class LoginTest extends CommonActions {
 
     LoginPage loginPage;
 
-    @Test
+    @Test(testName = "Login Test")
     public void loginTest(){
         globalWebDriver.get(homeURL);
         logger.info("Home URL " + homeURL + " opened");
@@ -24,13 +24,8 @@ public class LoginTest extends CommonActions {
         loginPage.clickLogin();
         logger.info("Login button is clicked");
 
-        if (globalWebDriver.getTitle().equals(homeTitle)){
-            Assert.assertTrue(true);
-            logger.info("Login Successful");
-        }else {
-            Assert.fail("Login failed");
-            logger.info("Login failed");
-        }
+        Assert.assertEquals(globalWebDriver.getTitle(),homeTitle,"Login Failed");
+
     }
 
 }
