@@ -8,7 +8,7 @@
 
     <test name="Selenium-Ebanking-Project">
         <classes>
-            <class name="TestCases.LoginDataDriven"/>
+            <class name="TestCases.AddCustomerTest"/>
         </classes>
     </test>
 

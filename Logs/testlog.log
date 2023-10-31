@@ -653,3 +653,177 @@
 2023-10-30 18:26:12,419 - Ebanking -INFO - loginDDT Failed
 2023-10-30 18:26:13,364 - Ebanking -INFO - Browser closed
 2023-10-30 18:26:13,920 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 13:31:53,798 - Ebanking -INFO - Browser launched
+2023-10-31 13:32:00,725 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 13:32:00,811 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 13:32:01,283 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 13:32:01,597 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 13:32:04,180 - Ebanking -INFO - Login button is clicked
+2023-10-31 13:32:05,677 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 13:32:06,233 - Ebanking -INFO - Customer Name is entered
+2023-10-31 13:32:06,397 - Ebanking -INFO - Gender is selected
+2023-10-31 13:32:06,693 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 13:32:06,990 - Ebanking -INFO - Address is entered
+2023-10-31 13:32:07,255 - Ebanking -INFO - City is entered
+2023-10-31 13:32:07,520 - Ebanking -INFO - State is entered
+2023-10-31 13:32:07,759 - Ebanking -INFO - PIN is entered
+2023-10-31 13:32:07,978 - Ebanking -INFO - Phone No is entered
+2023-10-31 13:32:08,256 - Ebanking -INFO - Email is entered
+2023-10-31 13:32:08,470 - Ebanking -INFO - Password is entered
+2023-10-31 13:32:08,603 - Ebanking -INFO - Clicked on submit button
+2023-10-31 13:32:08,691 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 13:32:09,959 - Ebanking -INFO - Browser closed
+2023-10-31 13:32:10,428 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 15:54:10,701 - Ebanking -INFO - Browser launched
+2023-10-31 15:54:17,713 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 15:54:17,757 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 15:54:17,997 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 15:54:18,245 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 15:54:23,975 - Ebanking -INFO - Login button is clicked
+2023-10-31 15:54:24,124 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 15:55:24,254 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 15:55:24,985 - Ebanking -INFO - Browser closed
+2023-10-31 15:55:25,445 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 15:56:10,902 - Ebanking -INFO - Browser launched
+2023-10-31 15:56:15,461 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 15:56:15,541 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 15:56:16,364 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 15:56:16,611 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 15:56:23,266 - Ebanking -INFO - Login button is clicked
+2023-10-31 15:56:23,418 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 15:56:36,164 - Ebanking -INFO - Customer Name is entered
+2023-10-31 15:56:36,286 - Ebanking -INFO - Gender is selected
+2023-10-31 15:56:36,597 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 15:56:36,873 - Ebanking -INFO - Address is entered
+2023-10-31 15:56:37,106 - Ebanking -INFO - City is entered
+2023-10-31 15:56:37,293 - Ebanking -INFO - State is entered
+2023-10-31 15:56:37,499 - Ebanking -INFO - PIN is entered
+2023-10-31 15:56:37,728 - Ebanking -INFO - Phone No is entered
+2023-10-31 15:56:37,977 - Ebanking -INFO - Email is entered
+2023-10-31 15:56:38,183 - Ebanking -INFO - Password is entered
+2023-10-31 15:56:38,288 - Ebanking -INFO - Clicked on submit button
+2023-10-31 15:56:38,356 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 15:56:39,893 - Ebanking -INFO - Browser closed
+2023-10-31 15:56:40,471 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:01:23,379 - Ebanking -INFO - Browser launched
+2023-10-31 16:01:29,229 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:01:29,267 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:01:29,612 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:01:30,034 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:01:35,835 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:01:36,005 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:01:42,562 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:01:42,820 - Ebanking -INFO - Gender is selected
+2023-10-31 16:01:43,321 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:01:43,587 - Ebanking -INFO - Address is entered
+2023-10-31 16:01:43,843 - Ebanking -INFO - City is entered
+2023-10-31 16:01:44,066 - Ebanking -INFO - State is entered
+2023-10-31 16:01:44,353 - Ebanking -INFO - PIN is entered
+2023-10-31 16:01:44,651 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:01:44,925 - Ebanking -INFO - Email is entered
+2023-10-31 16:01:45,111 - Ebanking -INFO - Password is entered
+2023-10-31 16:01:45,233 - Ebanking -INFO - Clicked on submit button
+2023-10-31 16:01:45,296 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 16:01:46,423 - Ebanking -INFO - Browser closed
+2023-10-31 16:01:46,875 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:02:42,446 - Ebanking -INFO - Browser launched
+2023-10-31 16:02:50,782 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:02:50,915 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:02:54,194 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:02:55,712 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:03:02,351 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:03:03,019 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:03:10,924 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:03:11,245 - Ebanking -INFO - Gender is selected
+2023-10-31 16:03:11,824 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:03:12,061 - Ebanking -INFO - Address is entered
+2023-10-31 16:03:12,341 - Ebanking -INFO - City is entered
+2023-10-31 16:03:12,623 - Ebanking -INFO - State is entered
+2023-10-31 16:03:12,890 - Ebanking -INFO - PIN is entered
+2023-10-31 16:03:13,212 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:03:13,565 - Ebanking -INFO - Email is entered
+2023-10-31 16:03:13,765 - Ebanking -INFO - Password is entered
+2023-10-31 16:03:13,908 - Ebanking -INFO - Clicked on submit button
+2023-10-31 16:03:13,995 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 16:03:15,355 - Ebanking -INFO - Browser closed
+2023-10-31 16:03:16,132 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:04:35,680 - Ebanking -INFO - Browser launched
+2023-10-31 16:04:41,267 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:04:41,304 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:04:41,695 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:04:41,994 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:04:45,459 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:04:45,672 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:04:50,061 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:04:50,286 - Ebanking -INFO - Gender is selected
+2023-10-31 16:04:50,549 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:04:50,815 - Ebanking -INFO - Address is entered
+2023-10-31 16:04:51,017 - Ebanking -INFO - City is entered
+2023-10-31 16:04:51,219 - Ebanking -INFO - State is entered
+2023-10-31 16:04:51,423 - Ebanking -INFO - PIN is entered
+2023-10-31 16:04:51,651 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:04:51,902 - Ebanking -INFO - Email is entered
+2023-10-31 16:04:52,112 - Ebanking -INFO - Password is entered
+2023-10-31 16:04:52,235 - Ebanking -INFO - Clicked on submit button
+2023-10-31 16:04:52,295 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 16:04:53,465 - Ebanking -INFO - Browser closed
+2023-10-31 16:04:53,981 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:09:35,892 - Ebanking -INFO - Browser launched
+2023-10-31 16:09:42,681 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:09:42,729 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:09:43,043 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:09:43,343 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:09:44,504 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:09:47,170 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:09:47,392 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:09:47,614 - Ebanking -INFO - Gender is selected
+2023-10-31 16:09:48,374 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:09:48,643 - Ebanking -INFO - Address is entered
+2023-10-31 16:09:48,866 - Ebanking -INFO - City is entered
+2023-10-31 16:09:49,064 - Ebanking -INFO - State is entered
+2023-10-31 16:09:49,289 - Ebanking -INFO - PIN is entered
+2023-10-31 16:09:49,497 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:09:49,782 - Ebanking -INFO - Email is entered
+2023-10-31 16:09:49,956 - Ebanking -INFO - Password is entered
+2023-10-31 16:09:50,074 - Ebanking -INFO - Clicked on submit button
+2023-10-31 16:09:50,191 - Ebanking -INFO - addNewCustomer Failed
+2023-10-31 16:09:50,980 - Ebanking -INFO - Browser closed
+2023-10-31 16:09:51,439 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:11:32,632 - Ebanking -INFO - Browser launched
+2023-10-31 16:11:47,007 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:12:02,207 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:12:11,447 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:12:14,482 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:12:19,788 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:12:30,094 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:12:37,076 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:12:48,161 - Ebanking -INFO - Gender is selected
+2023-10-31 16:12:58,960 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:13:05,756 - Ebanking -INFO - Address is entered
+2023-10-31 16:13:08,885 - Ebanking -INFO - City is entered
+2023-10-31 16:13:10,949 - Ebanking -INFO - State is entered
+2023-10-31 16:13:12,600 - Ebanking -INFO - PIN is entered
+2023-10-31 16:13:16,540 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:13:23,961 - Ebanking -INFO - Email is entered
+2023-10-31 16:13:27,998 - Ebanking -INFO - Password is entered
+2023-10-31 16:14:02,808 - Ebanking -INFO - Browser launched
+2023-10-31 16:14:09,001 - Ebanking -INFO - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:14:09,053 - Ebanking -INFO - LoginPage object initialized
+2023-10-31 16:14:09,439 - Ebanking -INFO - UserID: mngr534667 is entered
+2023-10-31 16:14:09,772 - Ebanking -INFO - Password: habamuj is entered
+2023-10-31 16:14:11,105 - Ebanking -INFO - Login button is clicked
+2023-10-31 16:14:13,540 - Ebanking -INFO - Clicked on New Customer link
+2023-10-31 16:14:13,777 - Ebanking -INFO - Customer Name is entered
+2023-10-31 16:14:14,047 - Ebanking -INFO - Gender is selected
+2023-10-31 16:14:14,649 - Ebanking -INFO - Date of Birth is entered
+2023-10-31 16:14:14,882 - Ebanking -INFO - Address is entered
+2023-10-31 16:14:15,091 - Ebanking -INFO - City is entered
+2023-10-31 16:14:15,303 - Ebanking -INFO - State is entered
+2023-10-31 16:14:15,573 - Ebanking -INFO - PIN is entered
+2023-10-31 16:14:15,825 - Ebanking -INFO - Phone No is entered
+2023-10-31 16:14:16,109 - Ebanking -INFO - Email is entered
+2023-10-31 16:14:16,290 - Ebanking -INFO - Password is entered
+2023-10-31 16:14:20,359 - Ebanking -INFO - Clicked on submit button
+2023-10-31 16:14:20,418 - Ebanking -INFO - addNewCustomer Passed
+2023-10-31 16:14:21,160 - Ebanking -INFO - Browser closed
+2023-10-31 16:14:21,977 - Ebanking -INFO - Test Selenium-Ebanking-Project Finished
