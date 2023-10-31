@@ -827,3 +827,32 @@
 2023-10-31 16:14:20,418 [main] INFO Ebanking - addNewCustomer Passed
 2023-10-31 16:14:21,160 [main] INFO Ebanking - Browser closed
 2023-10-31 16:14:21,977 [main] INFO Ebanking - Test Selenium-Ebanking-Project Finished
+2023-10-31 16:26:31,516 [main] INFO Ebanking - Browser launched
+2023-10-31 16:26:39,449 [main] INFO Ebanking - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:26:39,490 [main] INFO Ebanking - LoginPage object initialized
+2023-10-31 16:26:39,822 [main] INFO Ebanking - UserID: mngr534667 is entered
+2023-10-31 16:26:40,117 [main] INFO Ebanking - Password: habamuj is entered
+2023-10-31 16:26:41,620 [main] INFO Ebanking - Login button is clicked
+2023-10-31 16:26:41,672 [main] INFO Ebanking - loginTest Passed
+2023-10-31 16:26:41,956 [main] INFO Ebanking - Browser closed
+2023-10-31 16:26:43,553 [main] INFO Ebanking - Browser launched
+2023-10-31 16:26:51,018 [main] INFO Ebanking - Home URL https://demo.guru99.com/V4/ opened
+2023-10-31 16:26:51,020 [main] INFO Ebanking - LoginPage object initialized
+2023-10-31 16:26:51,317 [main] INFO Ebanking - UserID: mngr534667 is entered
+2023-10-31 16:26:51,616 [main] INFO Ebanking - Password: habamuj is entered
+2023-10-31 16:26:55,888 [main] INFO Ebanking - Login button is clicked
+2023-10-31 16:26:56,047 [main] INFO Ebanking - Clicked on New Customer link
+2023-10-31 16:26:59,017 [main] INFO Ebanking - Customer Name is entered
+2023-10-31 16:26:59,273 [main] INFO Ebanking - Gender is selected
+2023-10-31 16:26:59,831 [main] INFO Ebanking - Date of Birth is entered
+2023-10-31 16:27:00,018 [main] INFO Ebanking - Address is entered
+2023-10-31 16:27:00,233 [main] INFO Ebanking - City is entered
+2023-10-31 16:27:00,433 [main] INFO Ebanking - State is entered
+2023-10-31 16:27:00,699 [main] INFO Ebanking - PIN is entered
+2023-10-31 16:27:00,895 [main] INFO Ebanking - Phone No is entered
+2023-10-31 16:27:01,149 [main] INFO Ebanking - Email is entered
+2023-10-31 16:27:01,319 [main] INFO Ebanking - Password is entered
+2023-10-31 16:27:04,379 [main] INFO Ebanking - Clicked on submit button
+2023-10-31 16:27:04,417 [main] INFO Ebanking - addNewCustomer Passed
+2023-10-31 16:27:04,845 [main] INFO Ebanking - Browser closed
+2023-10-31 16:27:05,243 [main] INFO Ebanking - Test Selenium-Ebanking-Project Finished
